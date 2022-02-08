@@ -6,7 +6,7 @@
 
 ## U CAN USE THIS BUTTON WITHOUT FORK IF ERROR " Like Salesforce Violate" Then READ DOWN ONE MESSAGE 
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGENDBOYOP/Music-VC)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sahilsoni291/Music-VC)
 
 ------------
 
@@ -50,7 +50,7 @@ Command | Description
 • !mode / !switch | Switch the stream mode (audio/video)
 • !p / !play [song name or youtube link] | Play a song in vc, if already playing add to queue
 • !radio / !stream [radio url or stream link] | Play a live stream in vc, if already playing add to queue
-• !pl / !playlist [youtube playlist link] | Play the whole youtube playlist at once
+• !pl / !playlist [youtube playlist link] | Play the whole youtube playlist at once 
 • !skip / !next | Skip to the next song
 • !m / !mute | Mute the current stream
 • !um / !unmute | Unmute the muted stream
